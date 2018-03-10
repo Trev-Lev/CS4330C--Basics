@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Added this one...
+.vs
+
 # Object files
 *.o
 *.ko
